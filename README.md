@@ -13,7 +13,7 @@ NodeJS expressJS, angularJS, coffeescript, less, PolymerUI (2014년)
 
 https://github.com/sharp7C0000/demo-site
 
-rust Iron Vuejs Bootstrap4, es6, sass (개발중)
+rust Iron, Vuejs, Bootstrap4, es6, sass (개발중)
 
 ##### Team Profile Generator
 
